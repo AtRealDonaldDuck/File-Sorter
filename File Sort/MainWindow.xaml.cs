@@ -53,16 +53,12 @@ namespace File_Sort
             }
         }
 
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        private void txtBox_destinationFolder_GotKeyboardFocus(object sender, KeyboardFocusChangedEventArgs e)
         {
-        }
-
-        private void txtBox_destinationFolder_TextChanged(object sender, TextChangedEventArgs e)
-        {
-        }
-
-        private void cmbBox_sortingType_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
+            if (txtBox_destinationFolder.Text.Equals("optional*"))
+            {
+                txtBox_destinationFolder.Text = "";
+            }
         }
     }
 }

@@ -43,3 +43,18 @@ C:\Users\User\Downloads\Content\Code\File Sort 1.0.0\File Sort\obj\Debug\File So
 C:\Users\User\Downloads\Content\Code\File Sort 1.0.0\File Sort\obj\Debug\File_Sort.Properties.Resources.resources
 C:\Users\User\Downloads\Content\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.csproj.GenerateResource.cache
 C:\Users\User\Downloads\Content\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\bin\Debug\File Sort.exe.config
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\bin\Debug\File Sort.exe
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\bin\Debug\File Sort.pdb
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.csprojAssemblyReference.cache
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\MainWindow.g.cs
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\App.g.cs
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort_MarkupCompile.cache
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort_MarkupCompile.lref
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\MainWindow.baml
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.g.resources
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File_Sort.Properties.Resources.resources
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.csproj.GenerateResource.cache
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.exe
+C:\Users\A\Desktop\Code\File Sort 1.0.0\File Sort\obj\Debug\File Sort.pdb
